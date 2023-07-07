@@ -1,0 +1,16 @@
+.pepe{
+    display: grid;
+    place-items: center;
+    margin: auto;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+}
+
+.up{
+    cursor: pointer;
+}
+
+.down{
+    cursor: pointer;
+}
